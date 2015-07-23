@@ -1,4 +1,5 @@
-## These functions will calculate an inverse of a matrix if it is not already stored in the cache. If it is stored, just gets it from the cache.  
+## These functions will calculate an inverse of a matrix if it is not already stored in the cache. 
+#If it is already stored, it just gets the inverse from the cache.  
 
 ## This function will create a list of four functions:
 #1. 'setmatrix' will create the function to set the value of matrix and inverse(inv for short) in cache.
